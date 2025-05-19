@@ -10,3 +10,9 @@ BÀI TẬP TUẦN 1
 3.![image](https://github.com/user-attachments/assets/1fd17463-494a-4485-80ec-c3d63cc61f47)
 
 
+
+BÀI TẬP TUẦN 2
+![image](https://github.com/user-attachments/assets/b0faadc9-75d9-469c-bdb4-76dc671efdc2)
+
+
+
