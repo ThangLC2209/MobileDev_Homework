@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder (3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7F84F4-B04C-478D-91B5-D37051A58379}|game\\game.vcxproj|D:\\New folder (3)\\game\\Bieuthuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE7F84F4-B04C-478D-91B5-D37051A58379}|game\\game.vcxproj|solutionrelative:game\\Bieuthuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bieuthuc.h",
+              "DocumentMoniker": "D:\\New folder (3)\\game\\Bieuthuc.h",
+              "RelativeDocumentMoniker": "game\\Bieuthuc.h",
+              "ToolTip": "D:\\New folder (3)\\game\\Bieuthuc.h",
+              "RelativeToolTip": "game\\Bieuthuc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-01T00:14:48.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
