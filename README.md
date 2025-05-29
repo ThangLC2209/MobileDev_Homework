@@ -15,4 +15,9 @@ BÀI TẬP TUẦN 2
 ![image](https://github.com/user-attachments/assets/b0faadc9-75d9-469c-bdb4-76dc671efdc2)
 
 
+BÀI TẬP TUẦN 3
+![image](https://github.com/user-attachments/assets/5c9a363c-0bc1-48db-a65b-1a35bba76c34)
+
+
+
 
