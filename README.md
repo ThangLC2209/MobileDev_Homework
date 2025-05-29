@@ -18,6 +18,11 @@ BÀI TẬP TUẦN 2
 BÀI TẬP TUẦN 3
 ![image](https://github.com/user-attachments/assets/5c9a363c-0bc1-48db-a65b-1a35bba76c34)
 
+![image](https://github.com/user-attachments/assets/77891550-1d17-4eea-8981-62dd5ec34f8e)
+
+
+
+
 
 
 
