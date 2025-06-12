@@ -20,6 +20,11 @@ BÀI TẬP TUẦN 3
 
 ![image](https://github.com/user-attachments/assets/77891550-1d17-4eea-8981-62dd5ec34f8e)
 
+Bài tập tuần 4
+![image](https://github.com/user-attachments/assets/c40baee2-92ba-4026-bbb3-f381e9bbc6cc)
+
+
+
 
 
 
