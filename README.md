@@ -23,6 +23,17 @@ BÀI TẬP TUẦN 3
 Bài tập tuần 4
 ![image](https://github.com/user-attachments/assets/c40baee2-92ba-4026-bbb3-f381e9bbc6cc)
 
+Bài tập tuân 6
+![image](https://github.com/user-attachments/assets/8f2f4fde-c3dd-4a7e-bb2a-44be255c4805)
+
+![image](https://github.com/user-attachments/assets/85aef0ea-a620-4876-aa52-8319440dd8b2)
+
+![image](https://github.com/user-attachments/assets/a100b16e-b592-447d-896e-e6fa0109b805)
+
+Theo mô hình nvvm
+![image](https://github.com/user-attachments/assets/0ed420c5-d3d2-478f-a7f7-30904a21e935)
+
+
 
 
 
